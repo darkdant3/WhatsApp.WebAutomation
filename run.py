@@ -10,12 +10,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.common.exceptions import WebDriverException as WebDriverException
 from selenium.common.exceptions import NoSuchElementException as NoSuchElementException
-
-#import urllib.request as urllib2
 import json
-
-#from urllib.parse import urlencode
-#from urllib.request import Request, urlopen
 import logging
 
 logger = logging.getLogger(__name__)
