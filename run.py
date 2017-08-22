@@ -22,7 +22,6 @@ config = {
     'colors': True,  # True/False. True prints colorful msgs in console
     'ww_url': "https://web.whatsapp.com/",
     'get_message_url' : "http://localhost:8000/outbox/",
-    'update_message_url' : "",
     'api_token': 'e36721bd42a5cf5857b0827650d52a38cffd516b'
 }
 
